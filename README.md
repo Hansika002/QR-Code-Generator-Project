@@ -1,3 +1,3 @@
-# Javascript-Basic-Projects
+QR Code Generator Project
 
-Some projects to boost the Javscript concepts
+This is a QR code generator project using HTML, CSS and JavaScript.
